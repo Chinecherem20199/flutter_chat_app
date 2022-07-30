@@ -1,6 +1,6 @@
 # flutter_chat_app
 
-A Chat App for learning 
+# A simple chat app for groups,teams to receive updates, reviews and keep up.
 
 ## Getting Started
 
@@ -16,3 +16,4 @@ A Chat App for learning
 - [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ![41](https://user-images.githubusercontent.com/51314161/180650721-c23d1782-ac99-4497-8f32-4953d7e3f474.jpg)
+![102](https://user-images.githubusercontent.com/51314161/181905730-a272c75f-9c54-4941-893a-9d4bee752827.jpg)
